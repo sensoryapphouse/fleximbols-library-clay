@@ -1,0 +1,15 @@
+{
+  "groups": {
+    "Clay": "symbols"
+  },
+  "counts": {
+    "Clay": 39457
+  },
+  "assets": [
+    {
+      "name": "clay-01.zip",
+      "sha256": "00b4d81d199f180fb60354743553efa28f775b20b78110a5d9b9f4b15d11aa57",
+      "files": 39457
+    }
+  ]
+}
