@@ -1,0 +1,12 @@
+{
+  "complete": true,
+  "counts": {
+    "Clay": 39457
+  },
+  "images": 39457,
+  "image_bytes": 564059074,
+  "source_release": "https://github.com/sensoryapphouse/Symbol-Library/releases/download/library-2026-11-20/",
+  "all_archive_sha256_verified": true,
+  "all_image_crcs_verified": true,
+  "source_images_unchanged": true
+}
